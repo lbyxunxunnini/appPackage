@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mdtapp.yonghui.cn/MDT/mdt_prod.ipa</string>
+					<string>https://raw.githubusercontent.com/lbyxunxunnini/appPackage/master/stores/test/1.1.1/YPOSAPPIOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.yhcpos.com/static/icon/pos-logo@2x.png</string>
+					<string>https://raw.githubusercontent.com/lbyxunxunnini/appPackage/master/stores/icon/mendiantong.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.yhcpos.com/static/icon/pos-logo@2x.png</string>
+					<string>https://raw.githubusercontent.com/lbyxunxunnini/appPackage/master/stores/icon/mendiantong.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
