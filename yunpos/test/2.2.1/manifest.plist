@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yonghui.yhshop</string>
+				<string>com.yonghui.ministore</string>
 				<key>bundle-version</key>
 				<string>2.2.1</string>
 				<key>kind</key>
