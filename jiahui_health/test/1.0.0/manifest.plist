@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yonghui.supermarket</string>
+				<string>com.jiahui.health.app</string>
 				<key>bundle-version</key>
-				<string>1.2.7</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
